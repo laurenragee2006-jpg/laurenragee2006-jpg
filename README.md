@@ -1,16 +1,15 @@
-## Hi there 👋
+# hey, i'm lauren
 
-<!--
-**laurenragee2006-jpg/laurenragee2006-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+studying Business AI & Analytics + Marketing at Tennessee Tech.
 
-Here are some ideas to get you started:
+i like building things — mostly web apps and tools that solve problems 
+i actually run into. when i'm not doing that i'm playing video games, 
+messing around with computer hardware, or taking care of my plants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently working on:
+- syllasync — upload a syllabus, get a study plan
+- fitboard — virtual outfit builder
+- lucent — deal flow tool for investor groups
+
+
+[linkedin](https://www.linkedin.com/in/laurenragee/) · [instagram](https://www.instagram.com/lauren.csv/)
