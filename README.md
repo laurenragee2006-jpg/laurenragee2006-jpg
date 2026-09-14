@@ -2,7 +2,7 @@
 
 studying Business AI & Analytics + Marketing at Tennessee Tech.
 
-i like building things — mostly web apps and tools that solve problems 
+i like building things... mostly web apps and tools that solve problems 
 i actually run into. when i'm not doing that i'm playing video games, 
 messing around with computer hardware, or taking care of my plants.
 
