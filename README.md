@@ -7,9 +7,8 @@ i actually run into. when i'm not doing that i'm playing video games,
 messing around with computer hardware, or taking care of my plants.
 
 currently working on:
-- syllasync — upload a syllabus, get a study plan
-- fitboard — virtual outfit builder
-- lucent — deal flow tool for investor groups
+- Airline Dashboard
+- Workout and supplement tracker
 
 
 [linkedin](https://www.linkedin.com/in/laurenragee/) · [instagram](https://www.instagram.com/lauren.csv/)
