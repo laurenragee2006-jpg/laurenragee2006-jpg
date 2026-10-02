@@ -7,6 +7,7 @@ i actually run into. when i'm not doing that i'm playing video games,
 messing around with computer hardware, or taking care of my plants.
 
 currently working on:
+- facial recognition office sign 
 - Airline Dashboard
 - Workout and supplement tracker
 
